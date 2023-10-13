@@ -503,3 +503,4 @@ console.log(student.length);
 for (var a = 0; a < student.length; a++) {
     document.write(student[a].name + " " + student[a].age + "<br>");
 }
+dkajghfsjghdf
